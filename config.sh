@@ -41,7 +41,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     TJJ G Dialer Framework    "
+  ui_print "Google Dialer Framework  by TJJ"
   ui_print "*******************************"
 }
 
