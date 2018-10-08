@@ -1,6 +1,6 @@
 # Google Dialer Framework
-Google Dialer Framework Magisk Module targeting Android 7.1+, 8.0 (SDK 25, 26)\
-This module __should__ also work on versions higher than Android 8.0
+Google Dialer Framework Magisk Module targeting
+This module __should__ work on almost any version of Android.
 
 This Magisk module installs the Google Dialer Framework.
 It will __NOT__ install the Google Dialer / Google Phone, but you can easily install it through the Play Store.
