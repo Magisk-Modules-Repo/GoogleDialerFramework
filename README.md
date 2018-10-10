@@ -15,7 +15,7 @@ Updates for Google Dialer (also called Google Phone) can also be installed throu
 
 
 ### Installing Google Dialer
-After you've installed the Magisk module, you can easily install it from the Play Store:\
+After you've installed the Magisk module, you can easily install it from the Play Store: \
 https://play.google.com/store/apps/details?id=com.google.android.dialer\
 If the Play Store says that the app isn't compatible with your device, then clean your Play Store data and restart your phone.
 
