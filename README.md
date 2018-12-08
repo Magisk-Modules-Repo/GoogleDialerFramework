@@ -6,6 +6,8 @@ This Magisk module installs the Google Dialer Framework.
 It will __NOT__ install the Google Dialer / Google Phone, but you can easily install it through the Play Store.
 Updates for Google Dialer (also called Google Phone) can also be installed through the Play Store by using this module.
 
+After version 4 it also features the "PIXEL_EXPERIENCE" feature for the device, in order to remove the "This device is unsupported and calls may not work correctly" message.
+
 ### Instructions
 * __Install__ the Google Dialer Framework Magisk Module
 * __Clear__ Play Store __Data__
