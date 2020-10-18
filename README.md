@@ -1,5 +1,5 @@
 # Google Dialer Framework
-Google Dialer Framework Magisk Module targeting
+Google Dialer Framework Magisk Module.
 This module __should__ work on almost any version of Android.
 
 This Magisk module installs the Google Dialer Framework.
