@@ -2,7 +2,7 @@
 Google Dialer Framework Magisk Module.
 This module __should__ work on almost any version of Android.
 
-This Magisk module installs the Google Dialer Framework.
+This Magisk module installs the Google Dialer Framework required for installing the Google Dialer/Google Phone app.
 It will __NOT__ install the Google Dialer / Google Phone, but you can then easily install it through the Play Store.
 If you're already able to install the Google Dialer from the Play Store and are not getting an error message when opening the app, then you don't need this module.
 Updates for Google Dialer (also called Google Phone) can also be installed through the Play Store by using this module.
