@@ -26,3 +26,7 @@ https://play.google.com/store/apps/details?id=com.google.android.dialer \
 If the Play Store says that the app isn't compatible with your device, then clean your Play Store data and restart your phone.
 
 You can also install the Google Dialer APK from APKMirror: https://www.apkmirror.com/apk/google-inc/google-phone/
+
+### Issues
+- Some people reported that the voicemail tab isn't showing for them: https://github.com/Magisk-Modules-Repo/GoogleDialerFramework/issues/11
+- Some people reported that the module causes Bluetooth audio to fail: https://github.com/Magisk-Modules-Repo/GoogleDialerFramework/issues/6
