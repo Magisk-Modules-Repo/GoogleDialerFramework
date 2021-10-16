@@ -7,9 +7,7 @@ It will __NOT__ install the Google Dialer / Google Phone, but you can then easil
 If you're already able to install the Google Dialer from the Play Store and are not getting an error message when opening the app, then you don't need this module.
 Updates for Google Dialer (also called Google Phone) can also be installed through the Play Store by using this module.
 
-After version 4 it also features the "PIXEL_EXPERIENCE" feature for the device, in order to remove the "This device is unsupported and calls may not work correctly" message.
-Some people are apparently experiencing issues with Bluetooth audio which might be related to this.
-If this happens, please refer to issue #6: https://github.com/Magisk-Modules-Repo/GoogleDialerFramework/issues/6.
+After version 4, it also features the "PIXEL_EXPERIENCE" feature for the device, in order to remove the "This device is unsupported and calls may not work correctly" message.
 
 ### Instructions
 * __Install__ the Google Dialer Framework Magisk Module
