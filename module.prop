@@ -1,6 +1,6 @@
 id=GoogleDialerFramework
-name=Google Dialer Framework
-version=v5
-versionCode=5
+name=Dialer Framework for Google Phone
+version=v6
+versionCode=6
 author=TJJ
-description=Framework for installing the Google Dialer aka Google Phone on Android
+description=Framework for installing the Google Dialer/Google Phone on Android
