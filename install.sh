@@ -123,7 +123,7 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "Google Dialer Framework  by TJJ"
+  ui_print "    Dialer Framework by TJJ    "
   ui_print "*******************************"
 }
 
