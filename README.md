@@ -11,8 +11,15 @@ Updates for Google Phone can also be installed through the Play Store when using
 
 After version 4, it also features the "PIXEL_EXPERIENCE" feature for the device, in order to remove the "This device is unsupported and calls may not work correctly" message.
 
+### Downloading
+The downloads can be found at: https://github.com/Magisk-Modules-Repo/GoogleDialerFramework/releases  
+To download the latest release as an installable ZIP file, expand the "Assets" section and click ``Source code (zip)`` to download the ZIP.  
+After you've downloaded the ZIP, you can install it using the Magisk app.  
+Please also see the *Instructions* below for how to install the module and setup Google Dialer.
+
 ### Instructions
-* __Install__ the Dialer Framework Magisk Module
+* __Download__ the Dialer Framework Magisk Module using the instructions above
+* __Install__ the Dialer Framework Magisk Module using the Magisk app
 * __Clear__ Google Play Store __Data__ (if Google Phone can't be installed via the Play Store)
 * (Possibly also __clear__ Google Play Services __Data__)
 * __Restart__ Phone or Restart Play Store
