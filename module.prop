@@ -4,3 +4,4 @@ version=v6
 versionCode=6
 author=TJJ
 description=Framework for installing the Google Dialer/Google Phone on Android
+updateJson=https://raw.githubusercontent.com/Magisk-Modules-Repo/GoogleDialerFramework/master/update_info.json
