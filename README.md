@@ -13,7 +13,7 @@ After version 4, it also features the "PIXEL_EXPERIENCE" feature for the device,
 
 ### Downloading
 The downloads can be found at: https://github.com/Magisk-Modules-Repo/GoogleDialerFramework/releases  
-To download the latest release as an installable ZIP file, expand the "Assets" section and click ``Source code (zip)`` to download the ZIP.  
+To download the latest release as an installable ZIP file, expand the "Assets" section and click ``GoogleDialerFramework-v**.zip`` to download the ZIP.  
 After you've downloaded the ZIP, you can install it using the Magisk app.  
 Please also see the *Instructions* below for how to install the module and setup Google Dialer.
 
