@@ -1,6 +1,6 @@
 {
-    "version": "v7",
-    "versionCode": 7,
-    "zipUrl": "https://github.com/Magisk-Modules-Repo/GoogleDialerFramework/releases/download/v7/GoogleDialerFramework-v7.zip",
-    "changelog": "https://github.com/Magisk-Modules-Repo/GoogleDialerFramework/releases/tag/v7"
+    "version": "v8",
+    "versionCode": 8,
+    "zipUrl": "https://github.com/Magisk-Modules-Repo/GoogleDialerFramework/releases/download/v8/GoogleDialerFramework-v8.zip",
+    "changelog": "https://github.com/Magisk-Modules-Repo/GoogleDialerFramework/releases/tag/v8"
 }
