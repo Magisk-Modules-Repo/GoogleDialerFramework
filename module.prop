@@ -1,7 +1,7 @@
 id=GoogleDialerFramework
 name=Dialer Framework for Google Phone
-version=v7
-versionCode=7
+version=v9
+versionCode=9
 author=TJJ
 description=Framework for installing the Google Dialer/Google Phone on Android
 updateJson=https://raw.githubusercontent.com/Magisk-Modules-Repo/GoogleDialerFramework/master/update_info.json
